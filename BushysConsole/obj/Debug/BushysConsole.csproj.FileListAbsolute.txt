@@ -1,6 +1,0 @@
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysConsole\bin\Debug\BushysConsole.exe.config
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysConsole\bin\Debug\BushysConsole.exe
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysConsole\bin\Debug\BushysConsole.pdb
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysConsole\obj\Debug\BushysConsole.exe
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysConsole\obj\Debug\BushysConsole.pdb
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysConsole\obj\Debug\BushysConsole.csprojResolveAssemblyReference.cache
