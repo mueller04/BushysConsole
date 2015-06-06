@@ -115,7 +115,7 @@ namespace BushysConsole
                     }
                 //end while loop for the trail
                 }
-            //end while loop for the game
+            //End while loop for the game
                 if (trail.trailNumber >= 12)
                 {
                     trail.quitFlag = true;

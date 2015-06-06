@@ -25,7 +25,7 @@ namespace BushysConsole
             quitFlag = false;
         }
         
-
+        //create a new level
         public void newLevel()  
         {
             trailNumber++;
