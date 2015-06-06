@@ -1,0 +1,5 @@
+c:\users\mike\documents\visual studio 2013\Projects\BushysConsole\BushysConsole\bin\Release\BushysConsole.exe.config
+c:\users\mike\documents\visual studio 2013\Projects\BushysConsole\BushysConsole\bin\Release\BushysConsole.exe
+c:\users\mike\documents\visual studio 2013\Projects\BushysConsole\BushysConsole\bin\Release\BushysConsole.pdb
+c:\users\mike\documents\visual studio 2013\Projects\BushysConsole\BushysConsole\obj\Release\BushysConsole.exe
+c:\users\mike\documents\visual studio 2013\Projects\BushysConsole\BushysConsole\obj\Release\BushysConsole.pdb

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BushysConsole", "BushysConsole\BushysConsole.csproj", "{8AE4E93D-9F7D-44E7-A845-D5214F520369}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{48D0E548-CA3C-4B66-AFDA-1D199657FA55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BushysTest", "BushysTest\BushysTest.csproj", "{68310965-3E56-4953-B3B4-7D199E38AA75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AE4E93D-9F7D-44E7-A845-D5214F520369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE4E93D-9F7D-44E7-A845-D5214F520369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE4E93D-9F7D-44E7-A845-D5214F520369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE4E93D-9F7D-44E7-A845-D5214F520369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68310965-3E56-4953-B3B4-7D199E38AA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68310965-3E56-4953-B3B4-7D199E38AA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68310965-3E56-4953-B3B4-7D199E38AA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68310965-3E56-4953-B3B4-7D199E38AA75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{68310965-3E56-4953-B3B4-7D199E38AA75} = {48D0E548-CA3C-4B66-AFDA-1D199657FA55}
+	EndGlobalSection
+EndGlobal
