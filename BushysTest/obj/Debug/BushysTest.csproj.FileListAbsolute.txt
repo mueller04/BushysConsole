@@ -1,7 +1,0 @@
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysTest\bin\Debug\BushysTest.dll
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysTest\bin\Debug\BushysTest.pdb
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysTest\bin\Debug\BushysConsole.exe
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysTest\bin\Debug\BushysConsole.pdb
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysTest\obj\Debug\BushysTest.csprojResolveAssemblyReference.cache
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysTest\obj\Debug\BushysTest.dll
-C:\Users\Mike\Documents\Visual Studio 2013\Projects\BushysConsole\BushysTest\obj\Debug\BushysTest.pdb
