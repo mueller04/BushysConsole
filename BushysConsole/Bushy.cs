@@ -17,6 +17,7 @@ namespace BushysConsole
             nuts = 0;
         }
 
+        //Gets Health of Players
         public String GetHealth()
         {
             if (health == 1)
