@@ -2,6 +2,13 @@
 Thumbs.db
 ehthumbs.db
 
+#Build Folders
+[Bb]in/
+[Oo]bj/
+
+#MSTEST TestResults
+TestResults
+
 # Folder config file
 Desktop.ini
 
